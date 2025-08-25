@@ -14,7 +14,7 @@ This project is a Flask web app to predict student academic outcomes using demog
 
 ## Installation
 
-### 1.Clone the repository:-git clone https://github.com/<your-username>/<your-repo>.git
+### 1.Clone the repository:-[git clone https://github.com/<your-username>/<your-repo>.git](https://github.com/abhikgpian/Student-Exam-Score-Predictor.git)
 
 ### 2.Install dependencies:-pip install -r requirements.txt
 
