@@ -11,3 +11,20 @@ This project is a Flask web app to predict student academic outcomes using demog
 
 ### 4.Modular codebase for smooth deployment and easy maintenance.
 
+
+## Installation
+
+### 1.Clone the repository:-git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>
+
+### 2.Install dependencies:-pip install -r requirements.txt
+
+## Usage
+
+### 1.Start the Flask app:-python app.py
+
+### 2.Open your web browser and go to http://localhost:5000.
+
+### 3.Enter student data in the form and get predicted performance results.
+
+
